@@ -8,9 +8,10 @@ public class MultiplyNumbers {
         // TODO Auto-generated method stub
         int a=2;
         int b=3;
-        int c=a+b;
+        int c=a*b;
         System.out.println("C:"+c);
-        System.out.println("--");
+        System.out.println("c = " + c);
+        
 
     }
 }
