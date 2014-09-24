@@ -9,7 +9,7 @@ public class MultiplyNumbers {
         int a=2;
         int b=3;
         int c=a*b;
-        System.out.println("C:"+c);
+        System.out.println("C dev:"+c);
 
 
     }
